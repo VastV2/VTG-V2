@@ -5,6 +5,8 @@ brotli
 matplotlib
 pystyle
 colorama
+redis
+imagehash
 g4f
 pytweening
 keyboard
