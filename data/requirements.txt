@@ -1,0 +1,13 @@
+httpx
+opencv-python
+pysocks
+brotli
+matplotlib
+pystyle
+colorama
+g4f
+pytweening
+keyboard
+websocket
+discord
+selenium
